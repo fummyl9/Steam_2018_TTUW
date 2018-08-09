@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-  $('#trigger').click(function() {
+  $('#trigger').mouseover(function() {
     $('#overlay').fadeIn(300);  
   });
   $('#close').click(function() {
