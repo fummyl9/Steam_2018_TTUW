@@ -1,5 +1,5 @@
 
-$(document).ready(function() {
+(document).ready(function() {
   $('#trigger').mouseover(function() {
     $('#overlay').fadeIn(300);  
   });
